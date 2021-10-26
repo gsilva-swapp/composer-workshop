@@ -20,3 +20,4 @@ To test the package you need to use the function :
 The function would return a reversed string 
 
     -> tset fo gnirtS
+    
