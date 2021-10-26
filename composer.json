@@ -1,0 +1,13 @@
+{
+    "name": "silva/gustavo",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Gustavo Silva",
+            "email": "gsilva@swapps.co"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
