@@ -1,7 +1,7 @@
 <?php
-namespace Workshop;
+namespace Workspace;
 
-class Format{
+class StringUtils{
     public static function reverseString($value){
         return strrev($value);
     }
