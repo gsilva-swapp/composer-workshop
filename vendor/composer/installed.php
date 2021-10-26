@@ -5,7 +5,7 @@
         'type' => 'package',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '995253bdb8a4e4a651586ffec5423d63d5e17288',
+        'reference' => '5b85032d7c3556fb154c38202570624a15473bc9',
         'name' => 'silva/gustavo',
         'dev' => true,
     ),
@@ -34,7 +34,7 @@
             'type' => 'package',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '995253bdb8a4e4a651586ffec5423d63d5e17288',
+            'reference' => '5b85032d7c3556fb154c38202570624a15473bc9',
             'dev_requirement' => false,
         ),
         'symfony/polyfill-ctype' => array(
